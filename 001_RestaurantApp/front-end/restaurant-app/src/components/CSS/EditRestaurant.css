@@ -1,0 +1,32 @@
+.edit-restaurant-form {
+    width: auto;
+    margin: 0 auto;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+    width: 50% auto;
+  }
+  
+  input {
+    margin: 10px auto;
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s, padding 0.3s, border-radius 0.3s;
+    border: 2px solid #afa04c;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  
